@@ -1,0 +1,13 @@
+@import "tailwindcss";
+@plugin "daisyui";
+
+
+
+@theme {
+    --color-neutralsilver:#f5F7FA;
+    --color-neutralDgrey:#4D4D4D;
+    --color-brandPrimary:#4CAF4F;
+    --color-neutralGrey:#717171;
+}
+
+
