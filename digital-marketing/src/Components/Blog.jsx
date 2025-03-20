@@ -1,5 +1,5 @@
 import React from 'react'
-import rightArr from "../assets/right.png";
+import rightArr from "../assets/Right.png";
 
 
 

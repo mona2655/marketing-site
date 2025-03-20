@@ -1,6 +1,6 @@
 import React from 'react'
 import company1 from "../assets/vite.svg";
-import rightArr from "../assets/right.png";
+import rightArr from "../assets/Right.png";
 
 function Testomonial() {
   return (
