@@ -1,11 +1,19 @@
 import React from 'react'
 import vite from "../assets/vite.svg"
+import Membership from "../assets/Membership.png"
+import National from "../assets/National.png";
+import Club from "../assets/Club.png";
 
 function Services() {
     const services =[
-        {id: 1, title: "Membership Organisations",descroption: "Our membership management software provides full automation of membership renewals and payments", Image:"/src/assets/Membership.png"},
-        {id: 2, title: "National Associations", descroption:"Our membership management software provides full automation of membership renewals and payments",Image:"/src/assets/National.png"},
-        {id: 3, title: "Clubs And Groups", descroption:"Our membership management software provides full automation of membership renewals and payments",Image:"/src/assets/Club.png"}
+        {id: 1, title: "Membership Organisations",descroption: "Our membership management software provides full automation of membership renewals and payments", 
+            Image:Membership,},
+        {id: 2, title: "National Associations",
+             descroption:"Our membership management software provides full automation of membership renewals and payments",
+             Image:National,},
+        {id: 3, title: "Clubs And Groups",
+             descroption:"Our membership management software provides full automation of membership renewals and payments",
+             Image:Club,}
     ]
   return (
     <div className='md:px-14 px-4 py-6 max-w-screen-2xl mx-auto' id='service'>
