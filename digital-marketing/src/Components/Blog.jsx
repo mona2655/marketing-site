@@ -6,9 +6,9 @@ import rightArr from "../assets/Right.png";
 function Blog() {
 
     const blogs = [
-        {id: 1 , title:"Creating Streamlined Safeguarding Processes with OneRen",image: 'src/assets/image 18.png'},
-        {id: 2 , title:"What are your safeguarding responsibilities and how can you manage them?",image: 'src/assets/image 19.png'},
-        {id: 3 , title:"Revamping the Membership Model with Triathlon Australia",image: 'src/assets/image 20.png'}
+        {id: 1 , title:"Creating Streamlined Safeguarding Processes with OneRen",image: 'src/assets/image_18.png'},
+        {id: 2 , title:"What are your safeguarding responsibilities and how can you manage them?",image: 'src/assets/image_19.png'},
+        {id: 3 , title:"Revamping the Membership Model with Triathlon Australia",image: 'src/assets/image_20.png'}
     ] 
   return (
 
