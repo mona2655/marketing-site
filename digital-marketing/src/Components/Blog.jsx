@@ -31,7 +31,7 @@ function Blog() {
                    and lot's more.​</p>
         </div>
         {/* all blogs*/}
-        <div className='grid lg:grid-cols-3 sm:grid-cols-2 grid-cols-1 gap-8 items center justify-between'>
+        <div className='grid lg:grid-cols-3 sm:grid-cols-2 grid-cols-1 gap-8 items-center justify-between'>
             {
                 blogs.map(blog => <div key={blog.id} className='mx-auto relative mb-12  cursor-pointer' >
                 <img src={blog.image} alt="image" className='hover:scale-95 transition-all duration-300' />
