@@ -12,8 +12,8 @@ function Home() {
             <div><img src={banner1} alt='Banner' className="w-full mx-auto" /></div>
             <div className='md:w-1/2 text-center md:text-left'>
               <h1 className='text-5xl font-semibold mb-4 text-neutralDgrey md:w-3/4 leading-snug'>
-                Lesson and insights <br />
-                <span className='text-brandPrimary leading-snug'>from 8 years</span>
+                Lesson And Insights <br />
+                <span className='text-brandPrimary leading-snug'>From 8 Years</span>
               </h1>
               <p className='text-neutralDgrey text-base mb-8'>
                 Where to grow your business as a photographer: site or social media?
@@ -35,7 +35,7 @@ function Home() {
             <div className='md:w-1/2 text-center md:text-left'>
               <h1 className='text-5xl font-semibold mb-4 text-neutralDgrey md:w-3/4 leading-snug'>
                 Let's Learn and Earn <br />
-                <span className='text-brandPrimary leading-snug'>in 4 months</span>
+                <span className='text-brandPrimary leading-snug'>In 4 Months</span>
               </h1>
               <p className='text-neutralDgrey text-base mb-8'>
                 Where to grow your business as a photographer: site or social media?
@@ -56,8 +56,8 @@ function Home() {
             <div><img src={banner1} className="w-full mx-auto" alt="Banner" /></div>
             <div className='md:w-1/2 text-center md:text-left'>
               <h1 className='text-5xl font-semibold mb-4 text-neutralDgrey md:w-3/4 leading-snug'>
-                Lesson and insights <br />
-                <span className='text-brandPrimary leading-snug'>from 8 years</span>
+                Lesson And Insights <br />
+                <span className='text-brandPrimary leading-snug'>From 8 Years</span>
               </h1>
               <p className='text-neutralDgrey text-base mb-8'>
                 Where to grow your business as a photographer: site or social media?
@@ -78,8 +78,8 @@ function Home() {
             <div><img src={banner1} className="w-full mx-auto" alt="Banner" /></div>
             <div className='md:w-1/2 text-center md:text-left'>
               <h1 className='text-5xl font-semibold mb-4 text-neutralDgrey md:w-3/4 leading-snug'>
-                Lesson and insights <br />
-                <span className='text-brandPrimary leading-snug'>from 8 years</span>
+                Lesson And Insights <br />
+                <span className='text-brandPrimary leading-snug'>From 8 Years</span>
               </h1>
               <p className='text-neutralDgrey text-base mb-8'>
                 Where to grow your business as a photographer: site or social media?

@@ -13,7 +13,7 @@ function Product() {
       {/* Text Section */}
       <div className='md:w-1/2'>
         <h1 className='text-neutralDgrey font-semibold text-4xl mb-4'>
-          How to design your site footer like we did
+          How To Design Your Site Footer Like We Did
         </h1>
         <p className="text-sm text-neutralDgrey mb-4">
           Donec a eros justo. Fusce egestas tristique ultrices. Nam tempor, 

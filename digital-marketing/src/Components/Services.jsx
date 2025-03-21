@@ -31,8 +31,8 @@ function Services() {
             </div>
             {/* Service card*/}
             <div className='mt-20 md:w-1/2 mx-auto text-center '>
-                <h1 className=' text-4xl text-neutralDgrey font-semibold mb-3'>Manage your entire community 
-                in a single system</h1>
+                <h1 className=' text-4xl text-neutralDgrey font-semibold mb-3'>Manage Your Entire Community 
+                in a Single System</h1>
                 <p className='text-neutralDgrey'>Who is Nextcent suitable for?</p>
 
             </div>
