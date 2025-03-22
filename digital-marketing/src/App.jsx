@@ -8,10 +8,10 @@ import Navbar from './Components/Navbar';
 import Product from './Components/Product';
 import Services from './Components/Services';
 import Testomonial from './Components/Testomonial';
-
-// Import login, signup, and register components
 import Login from './Components/Login';
 import Signup from './Components/Signup';
+import Cookie from "./Components/Cookie";
+
 
 
 function App() {
@@ -27,8 +27,9 @@ function App() {
         <Route path="/blog" element={<Blog />} />
         <Route path="/login" element={<Login />} />
         <Route path="/signup" element={<Signup />} />
-        
+      
       </Routes>
+      <Cookie/>
       <Footer />
     </Router>
   );
