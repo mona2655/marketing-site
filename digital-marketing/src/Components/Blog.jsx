@@ -21,7 +21,7 @@ function Blog() {
     ] 
   return (
 
-    <div id='blog' className='px-4 lg:px-14 max-w-screen-2xl mx-auto my-12'>
+    <div id='blog' className='px-4 lg:px-14 max-w-screen-2xl mx-auto my-12 mt-24'>
         <div className='text-center md:w-1/2 mx-auto' >
             <h1 className='text-4xl text-neutralDgrey  font-semibold mb-4 '>Caring Is The New Marketing</h1>
             <p className='text-neutralDgrey text-sm mb-8 md:w-3/4 mx-auto'>The Nexcent blog is the best place to read about

@@ -3,7 +3,7 @@ import productPic from '../assets/pana.png';
 
 function Product() {
   return (
-    <div id='product' className='flex flex-col md:flex-row items-center justify-between px-6 md:px-14 max-w-screen-xl mx-auto my-10 gap-12'>
+    <div id='product' className='flex flex-col md:flex-row items-center justify-between px-6 md:px-14 max-w-screen-xl mx-auto my-10 mt-24 mb-20gap-12'>
 
       {/* Image Section */}
       <div className="md:w-1/2 flex justify-center">

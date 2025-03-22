@@ -4,7 +4,7 @@ import rightArr from "../assets/Right.png";
 
 function Testomonial() {
   return (
-    <div id='testomonial' className='flex items-center  bg-neutralsilver px-6 md:px-14 py-10 max-w-screen-xl mx-auto '>
+    <div id='testomonial' className='flex items-center  bg-neutralsilver px-6 md:px-14 py-10 max-w-screen-xl mx-auto mt-20 mb-20'>
 
          {/* Right Side - Empty Space */}
       <div className='md:w-1/3'></div>
